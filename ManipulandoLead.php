@@ -1,8 +1,5 @@
 <?php
 require_once("RDStationAPI.php");
-
-$b = new RDStationAPI();
-
 $rdAPI = new RDStationAPI();
 
 $rdAPI->setClienteId("*****");
