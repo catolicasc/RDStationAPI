@@ -5,7 +5,7 @@ $rdAPI = new RDStationAPI();
 $rdAPI->setClienteId("*****");
 $rdAPI->setClienteSecret("****");
 $rdAPI->setRefreshToken("******");
-$rdAPI->setEmail("luizinho@jornada.com");
+$rdAPI->setEmail("luiz@jornada.com");
 
 //$rdAPI->mudarEstagioFunil(array("lifecycle_stage"=>"Lead", "opportunity"=>false));   // Altera Funil 😎  
 //$rdAPI->manipularLead("OPPORTUNITY"); // Marca Oportunidade 😎
